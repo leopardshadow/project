@@ -290,6 +290,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // a1
@@ -3836,6 +3837,7 @@
             this.button3.TabIndex = 266;
             this.button3.Text = "button3";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Visible = false;
             // 
             // button4
             // 
@@ -3855,12 +3857,23 @@
             this.button5.Text = "button5";
             this.button5.UseVisualStyleBackColor = true;
             // 
+            // button6
+            // 
+            this.button6.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.button6.Location = new System.Drawing.Point(190, 120);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(73, 40);
+            this.button6.TabIndex = 269;
+            this.button6.Text = "get solution";
+            this.button6.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkSlateGray;
             this.ClientSize = new System.Drawing.Size(737, 588);
+            this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -4394,6 +4407,7 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button6;
     }
 }
 
