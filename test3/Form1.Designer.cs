@@ -285,6 +285,9 @@
             this.col11 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.getsol = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // a1
@@ -3441,7 +3444,7 @@
             // row1
             // 
             this.row1.BackColor = System.Drawing.Color.Bisque;
-            this.row1.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row1.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row1.Location = new System.Drawing.Point(332, 24);
             this.row1.Name = "row1";
             this.row1.Size = new System.Drawing.Size(23, 161);
@@ -3452,7 +3455,7 @@
             // row2
             // 
             this.row2.BackColor = System.Drawing.Color.Bisque;
-            this.row2.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row2.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row2.Location = new System.Drawing.Point(356, 24);
             this.row2.Name = "row2";
             this.row2.Size = new System.Drawing.Size(23, 161);
@@ -3463,7 +3466,7 @@
             // row4
             // 
             this.row4.BackColor = System.Drawing.Color.Bisque;
-            this.row4.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row4.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row4.Location = new System.Drawing.Point(404, 24);
             this.row4.Name = "row4";
             this.row4.Size = new System.Drawing.Size(23, 161);
@@ -3474,7 +3477,7 @@
             // row3
             // 
             this.row3.BackColor = System.Drawing.Color.Bisque;
-            this.row3.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row3.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row3.Location = new System.Drawing.Point(380, 24);
             this.row3.Name = "row3";
             this.row3.Size = new System.Drawing.Size(23, 161);
@@ -3485,7 +3488,7 @@
             // row5
             // 
             this.row5.BackColor = System.Drawing.Color.Bisque;
-            this.row5.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row5.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row5.Location = new System.Drawing.Point(428, 24);
             this.row5.Name = "row5";
             this.row5.Size = new System.Drawing.Size(23, 161);
@@ -3496,7 +3499,7 @@
             // row10
             // 
             this.row10.BackColor = System.Drawing.Color.Bisque;
-            this.row10.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row10.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row10.Location = new System.Drawing.Point(550, 24);
             this.row10.Name = "row10";
             this.row10.Size = new System.Drawing.Size(23, 161);
@@ -3507,7 +3510,7 @@
             // row9
             // 
             this.row9.BackColor = System.Drawing.Color.Bisque;
-            this.row9.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row9.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row9.Location = new System.Drawing.Point(526, 24);
             this.row9.Name = "row9";
             this.row9.Size = new System.Drawing.Size(23, 161);
@@ -3518,7 +3521,7 @@
             // row8
             // 
             this.row8.BackColor = System.Drawing.Color.Bisque;
-            this.row8.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row8.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row8.Location = new System.Drawing.Point(502, 24);
             this.row8.Name = "row8";
             this.row8.Size = new System.Drawing.Size(23, 161);
@@ -3529,7 +3532,7 @@
             // row7
             // 
             this.row7.BackColor = System.Drawing.Color.Bisque;
-            this.row7.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row7.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row7.Location = new System.Drawing.Point(478, 24);
             this.row7.Name = "row7";
             this.row7.Size = new System.Drawing.Size(23, 161);
@@ -3540,7 +3543,7 @@
             // row6
             // 
             this.row6.BackColor = System.Drawing.Color.Bisque;
-            this.row6.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row6.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row6.Location = new System.Drawing.Point(454, 24);
             this.row6.Name = "row6";
             this.row6.Size = new System.Drawing.Size(23, 161);
@@ -3551,7 +3554,7 @@
             // row15
             // 
             this.row15.BackColor = System.Drawing.Color.Bisque;
-            this.row15.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row15.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row15.Location = new System.Drawing.Point(672, 24);
             this.row15.Name = "row15";
             this.row15.Size = new System.Drawing.Size(23, 161);
@@ -3562,7 +3565,7 @@
             // row14
             // 
             this.row14.BackColor = System.Drawing.Color.Bisque;
-            this.row14.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row14.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row14.Location = new System.Drawing.Point(648, 24);
             this.row14.Name = "row14";
             this.row14.Size = new System.Drawing.Size(23, 161);
@@ -3573,7 +3576,7 @@
             // row13
             // 
             this.row13.BackColor = System.Drawing.Color.Bisque;
-            this.row13.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row13.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row13.Location = new System.Drawing.Point(624, 24);
             this.row13.Name = "row13";
             this.row13.Size = new System.Drawing.Size(23, 161);
@@ -3584,7 +3587,7 @@
             // row12
             // 
             this.row12.BackColor = System.Drawing.Color.Bisque;
-            this.row12.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row12.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row12.Location = new System.Drawing.Point(600, 24);
             this.row12.Name = "row12";
             this.row12.Size = new System.Drawing.Size(23, 161);
@@ -3595,7 +3598,7 @@
             // row11
             // 
             this.row11.BackColor = System.Drawing.Color.Bisque;
-            this.row11.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.row11.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.row11.Location = new System.Drawing.Point(576, 24);
             this.row11.Name = "row11";
             this.row11.Size = new System.Drawing.Size(23, 161);
@@ -3606,7 +3609,7 @@
             // col1
             // 
             this.col1.BackColor = System.Drawing.Color.Bisque;
-            this.col1.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col1.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col1.Location = new System.Drawing.Point(168, 188);
             this.col1.Name = "col1";
@@ -3618,7 +3621,7 @@
             // col2
             // 
             this.col2.BackColor = System.Drawing.Color.Bisque;
-            this.col2.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col2.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col2.Location = new System.Drawing.Point(168, 212);
             this.col2.Name = "col2";
@@ -3630,7 +3633,7 @@
             // col3
             // 
             this.col3.BackColor = System.Drawing.Color.Bisque;
-            this.col3.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col3.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col3.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col3.Location = new System.Drawing.Point(168, 236);
             this.col3.Name = "col3";
@@ -3642,7 +3645,7 @@
             // col5
             // 
             this.col5.BackColor = System.Drawing.Color.Bisque;
-            this.col5.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col5.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col5.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col5.Location = new System.Drawing.Point(168, 284);
             this.col5.Name = "col5";
@@ -3654,7 +3657,7 @@
             // col4
             // 
             this.col4.BackColor = System.Drawing.Color.Bisque;
-            this.col4.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col4.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col4.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col4.Location = new System.Drawing.Point(168, 260);
             this.col4.Name = "col4";
@@ -3666,7 +3669,7 @@
             // col10
             // 
             this.col10.BackColor = System.Drawing.Color.Bisque;
-            this.col10.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col10.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col10.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col10.Location = new System.Drawing.Point(168, 406);
             this.col10.Name = "col10";
@@ -3678,7 +3681,7 @@
             // col9
             // 
             this.col9.BackColor = System.Drawing.Color.Bisque;
-            this.col9.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col9.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col9.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col9.Location = new System.Drawing.Point(168, 382);
             this.col9.Name = "col9";
@@ -3690,7 +3693,7 @@
             // col8
             // 
             this.col8.BackColor = System.Drawing.Color.Bisque;
-            this.col8.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col8.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col8.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col8.Location = new System.Drawing.Point(168, 358);
             this.col8.Name = "col8";
@@ -3702,7 +3705,7 @@
             // col7
             // 
             this.col7.BackColor = System.Drawing.Color.Bisque;
-            this.col7.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col7.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col7.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col7.Location = new System.Drawing.Point(168, 334);
             this.col7.Name = "col7";
@@ -3714,7 +3717,7 @@
             // col6
             // 
             this.col6.BackColor = System.Drawing.Color.Bisque;
-            this.col6.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col6.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col6.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col6.Location = new System.Drawing.Point(168, 310);
             this.col6.Name = "col6";
@@ -3726,7 +3729,7 @@
             // col15
             // 
             this.col15.BackColor = System.Drawing.Color.Bisque;
-            this.col15.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col15.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col15.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col15.Location = new System.Drawing.Point(168, 528);
             this.col15.Name = "col15";
@@ -3738,7 +3741,7 @@
             // col14
             // 
             this.col14.BackColor = System.Drawing.Color.Bisque;
-            this.col14.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col14.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col14.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col14.Location = new System.Drawing.Point(168, 504);
             this.col14.Name = "col14";
@@ -3750,7 +3753,7 @@
             // col13
             // 
             this.col13.BackColor = System.Drawing.Color.Bisque;
-            this.col13.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col13.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col13.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col13.Location = new System.Drawing.Point(168, 480);
             this.col13.Name = "col13";
@@ -3762,7 +3765,7 @@
             // col12
             // 
             this.col12.BackColor = System.Drawing.Color.Bisque;
-            this.col12.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col12.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col12.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col12.Location = new System.Drawing.Point(168, 456);
             this.col12.Name = "col12";
@@ -3774,7 +3777,7 @@
             // col11
             // 
             this.col11.BackColor = System.Drawing.Color.Bisque;
-            this.col11.Font = new System.Drawing.Font("Microsoft JhengHei", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.col11.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.col11.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.col11.Location = new System.Drawing.Point(168, 432);
             this.col11.Name = "col11";
@@ -3805,12 +3808,42 @@
             this.getsol.UseVisualStyleBackColor = true;
             this.getsol.Click += new System.EventHandler(this.getsol_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(51, 212);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 264;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(51, 260);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 265;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(51, 309);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.TabIndex = 266;
+            this.button3.Text = "button3";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkSlateGray;
             this.ClientSize = new System.Drawing.Size(737, 588);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.getsol);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.col15);
@@ -4334,6 +4367,9 @@
         private System.Windows.Forms.Label col11;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button getsol;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
 
